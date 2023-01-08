@@ -23,3 +23,15 @@ p {
     text-align: center;
     margin-top: 20px;
 }
+
+#2 h1 {
+    font-weight: 300;
+    font-family: Verdana;
+    font-size: 42px;
+}
+
+#2 h2 {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
